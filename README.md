@@ -14,7 +14,7 @@ J'ai ensuite déconnecté cette gâchette pour la remplacer par mon propre circu
 
 2. La substitution par un Potentiomètre Numérique
 Pour simuler l'appui du doigt de manière électronique, j'utilise un Digital Potentiometer numérique .
-![Mon module LoRa](image/potentiomètre%20numérique.png)
+![Mon module LoRa](image/potentiometre%20numérique.jpg)
 
 Ce composant reçoit des ordres de mon microcontrôleur.
 
