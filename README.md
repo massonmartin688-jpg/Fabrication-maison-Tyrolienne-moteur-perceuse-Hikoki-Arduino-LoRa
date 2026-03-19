@@ -1,3 +1,5 @@
-# Comment ai-je réussi à contrôler ma perceuse de la marque HiKOKI à distance de manière électronique en rétro-ingénierant le système de commande de vitesse ?
-Contrôle sans fil LoRa d'une perceuse HiKOKI (moteur Brushless) via deux Arduino. Ce projet de rétro-ingénierie remplace la gâchette par un potentiomètre numérique et gère la puissance par relais.  Communication longue portée LoRa.  Shunt du potentiomètre linéaire.  Système Émetteur/Récepteur robuste.
+# HiKOKI Remote Control : Rétro-ingénierie d'une perceuse
+
+Ce projet documente ma démarche pour prendre le contrôle électronique d'une perceuse HiKOKI (système 18V/36V MultiVolt) afin de piloter sa vitesse de rotation à distance, en court-circuitant la gâchette mécanique d'origine.
+
 ![Mon module LoRa](image/perceuse%20et%20arduino%202%20.png)
