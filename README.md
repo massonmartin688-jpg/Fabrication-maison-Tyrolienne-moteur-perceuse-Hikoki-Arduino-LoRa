@@ -1,4 +1,5 @@
 # Voici comment j'ai réussi à prendre le contrôle électronique d'une perceuse HiKOKI pour la piloter à distance via le protocole LoRa.
+# J'ai détourné cette perceuse pour en faire le système de propulsion d'une tyrolienne électrique que j'ai conçue intégralement.
 
 
 L'objectif était de remplacer l'interaction physique avec la gâchette par une commande numérique sans fil, tout en conservant l'intelligence du variateur de vitesse d'origine de la machine. Plutôt que de modifier la puissance, j'ai choisi de "tromper" le cerveau de la perceuse.
